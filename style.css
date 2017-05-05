@@ -1,0 +1,101 @@
+header {
+    background-color: #1A2930;
+    color:beige;
+        }
+
+header ul{
+    margin:0;
+    padding: 0;
+    }
+
+header a{
+    
+    color:white;
+    }
+header li{
+    float: left;
+    padding: 0 50px 0 50px;
+    display: inline;
+     
+    }
+header nav{
+    float: right;
+    margin-top: -30px;
+    margin-right: 50px;
+     text-decoration: none;
+    
+}
+header a:hover{
+    color: burlywood;
+    text-decoration: none;
+}
+.box1{
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 15px;
+    height: 35px;
+    margin-bottom: 15px;
+}
+.formcontain{
+    background-color:#F7CE3E;
+    
+}
+.carousel-inner{
+    margin-left: 18%;
+    
+    
+}
+body{
+    
+    background-color:#C5C1C0;
+    color: black;
+}
+
+.footc
+{
+		float:left;
+		width:29%;
+		margin:.8% .8%;
+		text-align:center;
+}
+	
+	footer
+{       height:80px;
+		background:#333333;
+		width:100%;
+		overflow:hidden;
+		opacity:0.90;		
+}
+
+.footc h4{
+    color: red;
+}
+
+ul.social li
+	{
+		display:inline;
+	}
+	
+	ul.social li img
+	{
+		height:50px;
+	}
+	
+	li.foot img
+	{
+		height:60px;
+	}
+
+.carousel-caption{
+    font-size: 35px;
+    color:antiquewhite;
+    font-family:cursive;
+    font-style: italic;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.carousel-caption:hover{
+    color: red;
+    
+} 
