@@ -100,3 +100,11 @@ ul.social li
     
 } 
 
+div p,i,li{
+    font-size: 20px;
+    
+}
+.clear{
+    clear:both;
+    
+}
