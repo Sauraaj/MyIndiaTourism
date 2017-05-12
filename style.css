@@ -1,5 +1,5 @@
 header {
-    background-color: #1A2930;
+    background-color: #22264B;
     color:beige;
         }
 
@@ -37,7 +37,7 @@ header a:hover{
     margin-bottom: 15px;
 }
 .formcontain{
-    background-color:#F7CE3E;
+    background-color:#B56969;
     
 }
 .carousel-inner{
@@ -47,7 +47,7 @@ header a:hover{
 }
 body{
     
-    background-color:#C5C1C0;
+    background-color:white;
     color: black;
 }
 
@@ -61,7 +61,7 @@ body{
 	
 	footer
 {       height:80px;
-		background:#333333;
+		background-color:#173E43;
 		width:100%;
 		overflow:hidden;
 		opacity:0.90;		
@@ -106,6 +106,6 @@ div p,i,li{
 }
 
 #carousel-example-generic{
-    background-color: black;
-    opacity: 0.8;
+    background-color:brown;
+    opacity: 1.5;
 }
